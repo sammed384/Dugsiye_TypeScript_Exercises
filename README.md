@@ -4,7 +4,7 @@ This repository contains 13 TypeScript Exercises  designed to improve your codin
 
 ## Exercises list
 
-1. [Exercise 1](https://github.com/sammed384/)
+1. [Exercise 1](https://github.com/sammed384/Dugsiye_TypeScript_Exercises/tree/main/Exercises%201)
 
 
 
