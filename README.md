@@ -1,0 +1,10 @@
+# Dugsiye_TypeScript_Exercises 
+
+This repository contains 13 TypeScript Exercises  designed to improve your coding skills progressively. Each exercise has its own folder with a README file explaining the task and requirements.
+
+## Exercises list
+
+1. [Exercise 1](https://github.com/sammed384/)
+
+
+
