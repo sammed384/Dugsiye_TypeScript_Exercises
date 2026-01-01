@@ -7,7 +7,7 @@
 ![Exercises 10](./src/assets/2.png)
 
 ## http://localhost:3000/goodbye?name=
-![Exercises 10](./src/assets/1.png)
+![Exercises 10](./src/assets/2.png)
 
 
 
