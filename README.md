@@ -13,6 +13,8 @@ This repository contains 13 TypeScript Exercises  designed to improve your codin
 1. [Exercise 7](https://github.com/sammed384/Dugsiye_TypeScript_Exercises/tree/main/Exercises%207)
 2. [Exercise 8](https://github.com/sammed384/Dugsiye_TypeScript_Exercises/tree/main/Exercises%208)
 3. [Exercise 9](https://github.com/sammed384/Dugsiye_TypeScript_Exercises/tree/main/Exercises%209)
+4. [Exercise 10](https://github.com/sammed384/Dugsiye_TypeScript_Exercises/tree/main/Exercises%210)
+5. [Exercise 11](https://github.com/sammed384/Dugsiye_TypeScript_Exercises/tree/main/Exercises%211)
 
 
 
